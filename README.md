@@ -1,1 +1,1 @@
-# Sistema_Paralelo_para_la_Gesti-n_de_Pedidos_en_Restaurantes
+# Sistema_Paralelo_para_la_Gestion_de_Pedidos_en_Restaurantes
